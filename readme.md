@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://gist.github.com/user-attachments/assets/f8c1a975-c75f-4197-ad6d-f10b3574e5a0" />
+  <img src="https://gist.github.com/user-attachments/assets/026bdcb8-cbdb-4949-844a-f7e06a3ae621" />
 </p>
 
 ## [BlackGPT]
